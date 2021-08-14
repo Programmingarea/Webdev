@@ -1,0 +1,11 @@
+.login-class{
+    text-align: center;
+}
+.container{
+    text-align: center;
+    margin-top: 10%;
+}
+.container input{
+    width: 250px;
+    height: 45px;
+}
